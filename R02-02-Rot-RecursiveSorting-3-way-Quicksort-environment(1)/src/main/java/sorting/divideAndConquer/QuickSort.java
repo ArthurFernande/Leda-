@@ -1,5 +1,7 @@
 package sorting.divideAndConquer;
 
+import java.util.Arrays;
+
 import sorting.AbstractSorting;
 
 /**
@@ -43,5 +45,13 @@ public class QuickSort<T extends Comparable<T>> extends AbstractSorting<T> {
 		util.Util.swap(array, leftIndex, j);
 		return j;
 
+	}
+	
+	public static void main(String[] args) {
+		Integer [] array = {4,3,2,1,0};
+		QuickSort<Integer> teste  =new QuickSort<Integer>();
+		teste.sort(array, 0, array.length-1);
+		System.out.println(Arrays.toString(array));
+		
 	}
 }
