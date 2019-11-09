@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-09T11:58:26.737-0300</date>
+  <logger>ARTHUR FERNANDES DE ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 116211155-ARTHUR FERNANDES DE ANDRADE.zip was received. It was sent by ARTHUR FERNANDES DE ANDRADE from IP 192.168.0.112 at 09-11-2019 11*58*26</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-09T12:26:04.461-0300</date>
+  <logger>ARTHUR FERNANDES DE ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 116211155-ARTHUR FERNANDES DE ANDRADE.zip was received. It was sent by ARTHUR FERNANDES DE ANDRADE from IP 192.168.0.112 at 09-11-2019 12*26*04</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-09T12:31:10.369-0300</date>
+  <logger>ARTHUR FERNANDES DE ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 116211155-ARTHUR FERNANDES DE ANDRADE.zip was received. It was sent by ARTHUR FERNANDES DE ANDRADE from IP 192.168.0.112 at 09-11-2019 12*31*10</message>
+</record>
